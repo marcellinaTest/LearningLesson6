@@ -22,7 +22,7 @@ class EmployeeDetails:
 
 emp = EmployeeDetails("Kumar", 9876543210, "India")
 
-#emp.empDetails("Anil", 9876543210, "Hyd")
+#emp.empDetails("Test", 9876543210, "Hyd")
 
 #emp.empName()
 
